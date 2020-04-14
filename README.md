@@ -14,7 +14,7 @@ Trex game is a running dinosaur. Jump the dino trex over the cacti to gain point
 
 **HOW TO**
 
-Step1: First Clone this project
+Step1: First Clone this project and open [this link](http://www.trex-game.skipser.com/) in browser for the game.
 
 Step2:```
  pip install -r requirements.txt```
