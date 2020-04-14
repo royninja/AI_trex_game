@@ -5,7 +5,7 @@ Trex game is a running dinosaur. Jump the dino trex over the cacti to gain point
 
 [the game](http://www.trex-game.skipser.com/)
 
-[video guide](https://youtube.com)
+[video guide](https://youtu.be/xF9zPb0bHJ0)
 
 **Need:**
    - The game needs a wekit browser to run
