@@ -1,4 +1,5 @@
-###Artificial Intelligence for T rex game (just a prototype)
+###Artificial Intelligence for T rex game (just a prototype) ![python](https://img.shields.io/badge/python-v3.7-blue)
+![build](https://img.shields.io/badge/build-passing-brightgreen)
 
 Trex game is a running dinosaur. Jump the dino trex over the cacti to gain points. Android phones are better suited for the game because chrome browser comes by default.  :computer:
 ![alt text](https://tipsmake.com/data/thumbs/hack-the-dinosaur-game-of-google-chrome-to-make-your-trex-immortal-and-max-speed-thumb-4QovjTqzM.jpg)
